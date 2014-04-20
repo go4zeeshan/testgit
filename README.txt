@@ -1,6 +1,7 @@
 This is my README.txt file created to drill Git!
 
-Let us see how the Git works
+Let us see how the Git works.This is the first Edit *&^&
+
 
 ****** EDITED ******
  This section is added in the branch
