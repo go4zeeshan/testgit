@@ -2,6 +2,10 @@ This is my README.txt file created to drill Git!
 
 Let us see how the Git works
 
+****** EDITED ******
+ This section is added in the branch
+
+*****
 BEST OF LUCK!!!!
 
 **** For 2nd Commit *****
